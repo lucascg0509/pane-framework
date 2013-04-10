@@ -1,0 +1,12 @@
+
+
+h1, h2{
+	font-family: sans-serif;
+}
+
+div[class*=col]{
+	background: #f7f7f7;
+	border: 1px solid #aaa;
+	text-align: center;
+	border-radius: 4px;
+}
